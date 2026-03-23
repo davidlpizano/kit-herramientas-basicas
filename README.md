@@ -1,4 +1,4 @@
-1. Información del sistema [Yo]
+1. Información del sistema [Vizuete]
 2. Testeo disco[Óscar]
 3. Recuperación de datos [Kiko]
 4. Recuperación de contraseñas.[Álvaro]
